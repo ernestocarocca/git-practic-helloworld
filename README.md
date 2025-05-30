@@ -4,8 +4,11 @@
 #### Git commands
 ```bash
 git clone repo
-git remote set-url origin https://github.com/Lexicon-Smaland/Hello-World.git
-ernestocarocca@Mac Hello-World % 
+git remote set-url origin url
+git add .
+git commit -m ""
+git push origin main
+
 ```
 
 
